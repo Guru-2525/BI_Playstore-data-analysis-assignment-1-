@@ -1,2 +1,4 @@
-![](https://github.com/Guru-2525/BI_Playstore-data-analysis-assignment-1-/blob/main/Asgn%20-%20Playstore%20Analysis%20v0.1%20(.pdf)
+<img src=https://github.com/Guru-2525/BI_Playstore-data-analysis-assignment-1-/blob/main/Images/Screenshot%20(99).png>
+<img src=https://github.com/Guru-2525/BI_Playstore-data-analysis-assignment-1-/blob/main/Images/Screenshot%20(100).png>
+<img src=https://github.com/Guru-2525/BI_Playstore-data-analysis-assignment-1-/blob/main/Images/Screenshot%20(101).png>
 
